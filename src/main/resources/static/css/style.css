@@ -1,0 +1,33 @@
+li {
+    list-style: none;
+}
+
+.navMenu{
+    margin-bottom: 0;
+}
+
+.navMenu li{
+    display:inline-block;
+}
+
+#loginHeader{
+    text-align: center;
+    padding-top: 2em;
+}
+
+.align-center{
+    float:none;
+    margin: 0 auto;
+}
+
+#loggedIn{
+    display:inline;
+    float:right;
+}
+
+.comments {
+    margin-left: 20px;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.02);
+    border-radius: 10px 10px 10px 10px;
+}
